@@ -19,4 +19,55 @@ html {
 
 body {
   margin-bottom: 60px;
+<<<<<<< Updated upstream
 }
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+}
+=======
+=======
+>>>>>>> Stashed changes
+}
+
+.nav {
+    background-color: #e3f2fd;
+
+}
+
+.MainOne {
+    display: grid;
+    grid-template-columns: 200px minmax(500px,1800px);
+
+}
+<<<<<<< Updated upstream
+.main {
+    display: flex;
+}
+=======
+
+>>>>>>> Stashed changes
+
+.jumbo-features{
+    display: flex;
+    flex-wrap: nowrap; 
+    flex-direction: column;
+   
+}
+.sidebar {
+    height:100%;
+    width: 200px;
+}
+
+<<<<<<< Updated upstream
+
+=======
+.MainCrud{
+
+}
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes

@@ -1,0 +1,15 @@
+bin 
+obj
+.vs
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log 
+*.user
+*.userosscache
+*.suo
+*.userprefs
+appsettings.Development.json
+secrets.json
+packages
